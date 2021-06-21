@@ -1,2 +1,2 @@
-# wallpaper
+# Wallpapers
 Quiet theme for wallpapers
